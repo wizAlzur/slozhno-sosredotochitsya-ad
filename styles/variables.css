@@ -2,3 +2,11 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+:root {
+    --main-text-color: #f1b2ce;
+    --background-color: #000028;
+    --accent-color: #ff0070;
+    --decorative: #ff0070;
+    --header-menu-button-hover-color: rgb(255 0 112 / 0.4);
+}
