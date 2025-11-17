@@ -21,3 +21,9 @@
 .theme-dark .page {
   /* Вам также нужно будет написать ряд подобных селекторов */
 }
+
+@media (width >= 768px) {
+    .page.theme_dark {
+        background-image: url(../images/cover-image-dark.png);
+    }
+}

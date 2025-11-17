@@ -29,10 +29,9 @@
 .theme-light .page .decorated-title {
     color: #ffc2e6;
 }
-/*
+
 @media (width >= 768px) {
     .theme-light .page {
-        background-image: url(images/cover-image-light.png);
+        background-image: url(../images/cover-image-light.png);
     }
 }
-*/

@@ -33,11 +33,12 @@
     'header header'
     'description description';
     position: relative;
+    min-block-size: 100vh; /*?*/
 }
 
 .header__rec-el {
     display: flex;
-    align-self: center;
+    align-items: center; /*?*/
     position: absolute;
     inset-inline-end: 10px;
     inset-block-start: 10px;
