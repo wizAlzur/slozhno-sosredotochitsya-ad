@@ -18,7 +18,8 @@
     --accent-title-color: #000028;
 }
 
-.theme-dark .page {
+.theme-dark .page .header .decorated-title {
+    color: rgba(219, 0, 255, 1);
   /* Вам также нужно будет написать ряд подобных селекторов */
 }
 
