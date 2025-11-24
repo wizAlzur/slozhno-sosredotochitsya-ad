@@ -283,6 +283,13 @@
         inset-block-end: 20px;
         inset-inline-start: 20px;
     }
+    .theme-light .page {
+        background-image: url(../images/cover-image-light.png);
+    }
+
+    .page.theme_dark {
+        background-image: url(../images/cover-image-dark.png);
+    }
 }
 
 @media (width >=1024px) {
