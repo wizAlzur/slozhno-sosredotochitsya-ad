@@ -15,7 +15,7 @@
     --decorative: #353430;
     --header-menu-button-hover-color: rgb(50 49 45 / 0.4);
     --title-color: #353430;
-    --accent-title-color: #fff1f7;
+    --accent-title-color: rgba(53, 52, 48, 1);
 }
 
 .theme-light .page {

@@ -22,6 +22,10 @@
   /* Вам также нужно будет написать ряд подобных селекторов */
 }
 
+.theme-dark .page .header__rec-el {
+    display: inline-block;
+}
+
 @media (width >= 768px) {
     .page.theme_dark {
         background-image: url(../images/cover-image-dark.png);
